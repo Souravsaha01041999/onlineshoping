@@ -1,0 +1,28 @@
+CUSTOMER________________
+TYPE-
+NORMAL:- n
+MALE:- m
+FEMALE:- f
+CHILD:- c
+
+AVAILABEL:- 1
+NOT AVAILABEL:- 0
+NO OFFER:- n
+NO IMAGE:- none
+STATUS:- pending, cancel, delivered
+
+CATAGORY:- FASHION, GROCERY, ACCESSORIES, ELECTRIC AND ELECTRONICS
+
+ORDERID:- DATE TIME_WITH_SEC RANDOM NUMBER ALL_ARE_WITHOUT_SPACE
+
+PRODUCT LIST:- product id,product name,product price,product qun, product image
+
+VENDOR____________
+
+SHOP ID:- SP DATE TIME WITH SEC RANDOM NUMBER (WITHOUT SPACE)
+PRODUCT ID:- PE SHOP ID DATE TIME WITH SEC
+IMAGE NAME:- PRODUCT ID
+SHOP IMAGE NAME:- SHOP ID
+
+WEBSITE
+https://souravsaha1234.000webhostapp.com/shopingshila/index.html
